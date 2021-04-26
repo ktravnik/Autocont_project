@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: gmail.google.com.PositiveTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 92.996 s - in gmail.google.com.PositiveTests

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="91749" started-at="2021-04-26T10:10:06Z" finished-at="2021-04-26T10:11:38Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="91749" started-at="2021-04-26T10:10:06Z" finished-at="2021-04-26T10:11:38Z">
+      <class name="gmail.google.com.PositiveTests">
+        <test-method status="PASS" signature="loginSendCheckTest()[pri:0, instance:gmail.google.com.PositiveTests@2ef9b8bc]" name="loginSendCheckTest" duration-ms="91706" started-at="2021-04-26T10:10:06Z" finished-at="2021-04-26T10:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSendCheckTest -->
+      </class> <!-- gmail.google.com.PositiveTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
