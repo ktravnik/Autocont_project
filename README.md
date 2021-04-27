@@ -1,7 +1,8 @@
 # Selenium_project for windows written in [Eclipse IDE](https://www.eclipse.org/downloads/).  
 
 ##### Gmail account has to have disabled Two-way verification or the program won't be able to log in.  
-##### This guide is mostly for terminal run.  
+##### This guide is mostly for terminal run.
+##### UTF-8 was used.
 
 This is a project on Selenium and Java to automatically login to google Gmail and send email to yourself, no other email client is possible. The core of this project is pom.xml which is implementing and controlling the whole project. (if it wont work via terminal before starting this project in Eclpise update it by right-clicking on the project name and then select Maven -> Update Project -> OK.)    
 For this code to work you need to check your java version by `java -version` and add your version to pom.xml on lines 35 and 36. I was using version 1.8. The app won't be working with anything older for sure so I recommend using Java 1.8 (In generall java JDK is needed).  
