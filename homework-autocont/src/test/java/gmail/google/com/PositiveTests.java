@@ -15,8 +15,8 @@ import org.testng.annotations.Test;
 public class PositiveTests {
 
 	public String subject = "test";
-	public String mail = "xtravn25@vutbr.cz";
-	public String passwd = "Kyberkri2020";
+	public String mail = "";
+	public String passwd = "";
 	public String textToSend = "This is a mail created for homework";
 	public int timeLowInSeconds = 10;
 	public int timeHigherInSeconds = 35;
