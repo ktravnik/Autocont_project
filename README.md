@@ -8,5 +8,5 @@ This is a project on Selenium and Java to automatically login to google Gmail an
 For this code to work you need to check your java version by `java -version` and add your version to pom.xml on lines 35 and 36. I was using version 1.8. The app won't be working with anything older for sure so I recommend using Java 1.8 (In generall java JDK is needed).  
 Also, you need to have [Maven](https://maven.apache.org/download.cgi) installed and you have to add maven in your [PATH](https://mkyong.com/maven/how-to-install-maven-in-windows/).  You can check if maven is in your path with command mvn `mvn -version`. I was using newest stable verssion of Maven.  
 Then you need to set email and password for your account which you can do in the java file PositiveTests in package gmail.google.com and setting String variable mail (line 18) from empty string to your email address and String variable passwd (line 19) to your password.  
-After those checks, you have to navigate in folder ` /homework-autocont ` and write `mvn clean test` which will start this test.  
+After those checks, you have to navigate in folder ` homework-autocont ` and launch `mvn clean test` which will start this test.  
 In this project, I've used google chrome only so you need to have google chrome installed on version 90.0 so the selenium driver will work. I am using version     90.0.4430.85.  
