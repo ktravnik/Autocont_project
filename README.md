@@ -5,7 +5,7 @@
 ##### UTF-8 was used.
 
 ![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/funguje.png?raw=true)
-*This code can click online on this type of send email or + in this picture*
+*This code can click only on this type of send email pen icon in this picture*
 
 
 ![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true)
