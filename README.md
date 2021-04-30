@@ -4,12 +4,13 @@
 ##### This guide is mostly for terminal run.
 ##### UTF-8 was used.
 
-![alt image1](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/funguje.png?raw=true). 
+![alt image1](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/funguje.png?raw=true)
 *This code can click only on this type of send email pen icon in this picture*. 
 
 
-![alt image2](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true). 
-*If you want to click on "Nová zpráva" yoo have to change selector for open email in code*  
+![alt image2](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true) 
+
+*If you want to click on "Nová zpráva" yoo have to change selector for open email in code*
 
 
 
