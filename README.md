@@ -4,7 +4,7 @@
 ##### This guide is mostly for terminal run.
 ##### UTF-8 was used.
 
-![alt text](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true)
+![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true)
 
 ![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/funguje.png?raw=true)
 
