@@ -4,6 +4,9 @@
 ##### This guide is mostly for terminal run.
 ##### UTF-8 was used.
 
+
+![[https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true]]
+
 This is a project on Selenium and Java to automatically login to google Gmail and send email to yourself, no other email client is possible. The core of this project is pom.xml which is implementing and controlling the whole project. (if it wont work via terminal before starting this project in Eclpise update it by right-clicking on the project name and then select Maven -> Update Project -> OK.)    
 For this code to work you need to check your java version by `java -version` and add your version to pom.xml on lines 35 and 36. I was using version 1.8. The app won't be working with anything older for sure so I recommend using Java 1.8 (In generall java JDK is needed).  
 Also, you need to have [Maven](https://maven.apache.org/download.cgi) installed and you have to add maven in your [PATH](https://mkyong.com/maven/how-to-install-maven-in-windows/).  You can check if maven is in your path with command mvn `mvn -version`. I was using newest stable verssion of Maven.  
