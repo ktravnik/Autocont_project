@@ -4,9 +4,14 @@
 ##### This guide is mostly for terminal run.
 ##### UTF-8 was used.
 
-![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true)
-
 ![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/funguje.png?raw=true)
+*This code can click online on this type of send email or + in this picture*
+
+
+![](https://github.com/ktravnik/Selenium_project/blob/main/homework-autocont/potreba_zmenit_selektor.png?raw=true)
+*If you want to click on "Nová zpráva" yoo have to change selector for open email in code*
+
+
 
 
 This is a project on Selenium and Java to automatically login to google Gmail and send email to yourself, no other email client is possible. The core of this project is pom.xml which is implementing and controlling the whole project. (if it wont work via terminal before starting this project in Eclpise update it by right-clicking on the project name and then select Maven -> Update Project -> OK.)    
